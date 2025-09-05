@@ -1,2 +1,2 @@
-print("Hello, World! my name is Star")
+print("ITS A YOUNG NINJA WORLD")
 
